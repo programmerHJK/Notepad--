@@ -1,3 +1,3 @@
-## real basic version of notpad
+## super-simple version of notpad
 
 **have no special features**
